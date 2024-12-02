@@ -1,0 +1,11 @@
+.nota{
+    background-color: whitesmoke;
+    margin: 5px;
+    padding: 10px;
+}
+.boton{
+    background-color: aquamarine;
+    border-color: aqua;
+    padding: 10px;
+    margin: 5px;
+}
